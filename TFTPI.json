@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Only my physical body will ever die.",
+    "group": 1,
+    "isReversed": false
+  },
+  {
+    "question": "My body is just a temporary home for the real me.",
+    "group": 1,
+    "isReversed": false
+  },
+  {
+    "question": "Death is just a new beginning.",
+    "group": 1,
+    "isReversed": false
+  },
+  {
+    "question": "I believe in miracles.",
+    "group": 1,
+    "isReversed": false
+  },
+  {
+    "question": "The theory of evolution adequately explains how humans came to be.",
+    "group": 1,
+    "isReversed": true
+  },
+  {
+    "question": "Humans possess a soul.",
+    "group": 1,
+    "isReversed": false
+  },
+  {
+    "question": "Scientific laws cannot explain everything.",
+    "group": 1,
+    "isReversed": false
+  },
+  {
+    "question": "I will be held accountable for my actions on earth when I die.",
+    "group": 1,
+    "isReversed": false
+  },
+  {
+    "question": "There are divine laws by which humans should live.",
+    "group": 1,
+    "isReversed": false
+  },
+  {
+    "question": "I believe in spirits.",
+    "group": 1,
+    "isReversed": false
+  }
+]
