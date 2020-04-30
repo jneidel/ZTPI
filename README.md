@@ -21,3 +21,8 @@ The groups specify the different time perspectives, with their total number of q
 ```
 1. (10)
 ```
+
+## Scoring
+
+A groups sum divided by it's total number of questions. See [prompt.sh](prompt.sh) for an example.
+
